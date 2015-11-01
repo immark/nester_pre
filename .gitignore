@@ -1,0 +1,6 @@
+#
+*.pyc
+
+#
+/nester_pre.egg-info
+/dist
