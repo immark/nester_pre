@@ -1,11 +1,10 @@
 Metadata-Version: 1.1
 Name: nester_pre
-Version: 1.4.3
+Version: 1.4.4
 Summary:  print nester list to screen or file.
-Home-page: https://pypi.python.org/id/mapython
+Home-page: https://github.com/immark/nester_pre
 Author: Mark Ma
 Author-email: maanyng@yahoo.com.tw
 License: MIT
-Description:
-	nester_pre let you print nestered list.
+Description: nester_pre let you print nestered data. i.e. nested list.
 Platform: any
